@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffcc99;
+            color: #000000;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #000000;
+        }
+        section {
+            background: white;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px 0;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h3 {
+            color:  #000000;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+        a {
+            display: inline-block;
+            margin: 5px;
+            text-decoration: none;
+            color: #4CAF50;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color:  #000000;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Ashley Kinneth M. Liong</h1>
+    <section>
+        <h3>ABOUT ME</h3>
+        <p>Welcome to my website! I'm Ashley Kinneth M. Liong, a passionate digital marketing student dedicated to crafting compelling online strategies that connect brands with their audience. I am currently pursuing my Bachelor’s degree in Digital Marketing at University of Nueva Caceres. My fascination with digital media and consumer behavior drives me to explore innovative marketing solutions. In my free time, I enjoy blogging about marketing trend, editing pictures, experimenting with social media campaigns, and keeping up with the latest industry news.
+ </p>
+    </section>
+
+    <section>
+        <h3>SKILLS</h3>
+        <ul>
+            <li>Content Marketing: Proficient in creating engaging content for various platforms, including blogs, social media, and email newsletters.
+
+</li>
+            <li> SEO & SEM: Knowledgeable in search engine optimization and search engine marketing strategies to enhance online visibility.
+</li>
+            <li>Social Media ManagemenT: Experienced in developing and executing social media strategies across platforms like Instagram, Facebook, and LinkedIn.
+</li>
+            
+        </ul>
+    </section>
+
+    <section>
+        <h3>CONTACT</h3>
+        <ol>
+            <li>09461418744</li>
+            <li>FACEBOOK- Ashley Kinneth M. Liong</li>
+            <li>INSTAGRAM- Ashiiieyyy</li>
+            
+    </section>
+
+</body>
+</html>
